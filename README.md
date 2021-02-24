@@ -1,6 +1,6 @@
 # Multimodal_Visualization_Framework
 
-> 黑客马拉松作品：时域语言定位可视化框架
+> Hackathon作品：时域语言定位可视化框架
 > Youth U md Team by BoJack, Conyrol, QnyKo
 
 
